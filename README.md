@@ -1,0 +1,2 @@
+# SumOfTwoLowestPositiveIntegers
+JavaScript Codewars Exercise
